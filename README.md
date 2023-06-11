@@ -7,8 +7,8 @@ You may assume that each input would have exactly one solution, and
 you may not use the same element twice.
 You can return the answer in any order.
 
-*<h1>Day 2 Task </h1>
-#Valid Parentheses <italic> Easy</italic>
+* <h1>Day 2 Task </h1>
+# Valid Parentheses <bold> Easy</bold>
 Given a string s containing just the characters '(' , ')' , '{' , '}' ,
 '[' & ']' , determine if the input string is valid.
 An input string is valid if:
