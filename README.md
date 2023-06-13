@@ -23,3 +23,8 @@ You are given the heads of two sorted linked lists list1 and list2 .
 Merge the two lists in a one sorted list. The list should be made by splicing 
 together the nodes of the first two lists.
 Return the head of the merged linked list.
+# Day 4 task
+# Rotate Array
+Rotate an array of n elements to the right by k steps.
+For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to
+[5,6,7,1,2,3,4].
