@@ -32,3 +32,20 @@ For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to
 Given an integer x, return true if x is a 
 palindrome
 , and false otherwise.
+# Valid Palindrome Easy
+
+A phrase is a palindrome if, after converting all uppercase letters into 
+
+
+
+lowercase letters and removing all non-alphanumeric characters, it 
+
+
+
+reads the same forward and backward. Alphanumeric characters 
+
+
+
+include letters and numbers.
+
+Given a string s return true if it is a palindrome, or false otherwise. 
