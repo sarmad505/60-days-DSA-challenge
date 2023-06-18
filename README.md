@@ -18,11 +18,7 @@ Open brackets must be closed in the correct order.
 
 Every close bracket has a corresponding open bracket of the same type
 # Day 3 task
-# Merge Two Sorted Lists Easy
-You are given the heads of two sorted linked lists list1 and list2 .
-Merge the two lists in a one sorted list. The list should be made by splicing 
-together the nodes of the first two lists.
-Return the head of the merged linked list.
+Binary Search tree
 # Day 4 task
 # Rotate Array
 Rotate an array of n elements to the right by k steps.
