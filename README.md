@@ -28,3 +28,18 @@ For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to
 Given an integer x, return true if x is a 
 palindrome
 , and false otherwise.
+
+# Day 6
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+Example 1:
+
+Input: strs = ["flower","flow","flight"]
+Output: "fl"
+
+Example 2:
+
+Input: strs = ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
