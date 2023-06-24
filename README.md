@@ -38,6 +38,8 @@ Example 1:
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 
+# Day 7
+# String Permutation
 Example 2:
 
 Input: strs = ["dog","racecar","car"]
