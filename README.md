@@ -46,4 +46,19 @@ Output: ""
 Explanation: There is no common prefix among the input strings.
 
 # Day 7
-# String Permutation
+
+01: Permutations of a given string
+Given a string S. The task is to print all unique permutations of the given string in lexicographically sorted order.
+
+Example 1:
+Input: ABC
+Output: ABC ACB BAC BCA CAB CBA
+
+Example 2:
+Input: ABSG
+Output:
+ABGS ABSG AGBS AGSB ASBG ASGB BAGS 
+BASG BGAS BGSA BSAG BSGA GABS GASB 
+GBAS GBSA GSAB GSBA SABG SAGB SBAG 
+SBGA SGAB SGBA
+
